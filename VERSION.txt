@@ -1,0 +1,4 @@
+BlazarLab Lite V6
+Version: 1.3.50
+Purpose: integrated consolidation of presentation mode, schema-based visual preferences, precise graph interpretation guides, accessibility, and reduced redundant chart redraws.
+Package: Lite only; no audit, changelog, evidence, or test-report files.
