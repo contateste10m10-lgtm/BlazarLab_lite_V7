@@ -1,0 +1,4 @@
+BlazarLab Lite V6
+Version: 1.3.49
+Purpose: finishes a targeted consistency/accessibility pass and updates V6 canonical/social metadata.
+Package: Lite only; no audit, changelog, evidence, or test-report files.
